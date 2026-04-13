@@ -23,6 +23,4 @@ I am creating this pixel game with random-generating dungeon fully by myself(act
 * Maybe some hub between levels
 * And other ideas which are not yet presented here...
 # Additional info
-Folder Build contains last build, if you want to try.
-
 Folder Screenshots contains some screenshots from the last build.
