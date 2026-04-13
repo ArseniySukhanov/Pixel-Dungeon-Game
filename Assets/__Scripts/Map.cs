@@ -564,7 +564,7 @@ public class Map : MonoBehaviour
         foreach (var tRoom in _leaves)
         {
             var typeRoom = Random.Range(0,roomTextAssets.Length);
-            var lines = roomTextAssets[typeRoom].text.Split( new string[]{"\r\n"}, StringSplitOptions.None);
+            var lines = roomTextAssets[typeRoom].text.Split(new [] { '\r', '\n' }, StringSplitOptions.None);
             const NumberStyles hex = System.Globalization.NumberStyles.HexNumber;
             for (var i = 0; i < lines.Length; i++)
             {
