@@ -1,4 +1,4 @@
-# New-Project
+# Pixel Dungeon Game
  My new pixel game with dungeons, but without dragons (yet)
 # Introduction
 I am creating this pixel game with random-generating dungeon fully by myself(actually, there is used once asset from Unity store "Pixel Font - Tripfive", but everything else is mine).

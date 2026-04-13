@@ -45,7 +45,7 @@ TextureImporter:
       213: -314675951565558864
     second: Hero_Run_For_4
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -66,6 +66,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,6 +105,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -508,6 +510,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Hero_Idle_Back_0: 2632276121321243838
+      Hero_Idle_Back_1: 2805043176163793281
+      Hero_Idle_For_0: -6146700129834819302
+      Hero_Idle_For_1: 9138555137054584332
+      Hero_Run_Back_0: 3530003579022248241
+      Hero_Run_Back_1: 8960899199633546546
+      Hero_Run_Back_2: 1635744749237841209
+      Hero_Run_Back_3: 4360131077223874234
+      Hero_Run_Back_4: -3687602496079464652
+      Hero_Run_For_0: -2142791582941521445
+      Hero_Run_For_1: 7018385267601350384
+      Hero_Run_For_2: 1917320343087086255
+      Hero_Run_For_3: -6089189685315772502
+      Hero_Run_For_4: -314675951565558864
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

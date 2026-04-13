@@ -12,7 +12,7 @@ TextureImporter:
       213: -4674499405651216221
     second: Ghosts_2
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -33,6 +33,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -71,6 +72,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -248,6 +250,10 @@ TextureImporter:
       name: _Emission
     - texture: {fileID: 2800000, guid: c8e6d9419137e56419aca4ab156c457d, type: 3}
       name: _Outline
+    nameFileIdTable:
+      Ghosts_0: 1863864415795655316
+      Ghosts_1: 7830040829578866814
+      Ghosts_2: -4674499405651216221
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

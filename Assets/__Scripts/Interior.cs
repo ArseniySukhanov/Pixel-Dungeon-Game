@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Experimental.Rendering.Universal;
+
 
 /// <summary>
 /// Class for an interior blocks of the level
@@ -83,7 +83,7 @@ public class Interior : MonoBehaviour
 		{
 			if (spriteNum < 240 && _children[i].name.Contains("WallLight"))
 			{
-				var light2D = _children[i].GetComponent<Light2D>();
+				var light2D = _children[i].GetComponent<UnityEngine.Rendering.Universal.Light2D>();
 				light2D.color = Map.Colors[spriteNum % 224];
 				light2D.enabled = true;
 			}
